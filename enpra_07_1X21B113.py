@@ -15,4 +15,7 @@ for i in range(0,max):
     else:
         print("不正解です。もっと大きい数字です。")
 
+print(f"正解は{N}です。")  
+
+
 
